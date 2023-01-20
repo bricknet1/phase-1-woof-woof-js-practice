@@ -51,3 +51,8 @@
 body {
   margin: 0;
 }
+
+button, btn, span {
+  cursor: pointer;
+}
+
